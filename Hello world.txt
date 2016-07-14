@@ -1,6 +1,6 @@
-Print("Hello wordld");
-Print2("Hello wordld");
-Print3("Hello wordld");
+Print("Hello wordld$");
+Print2("Hello wordld$");
+Print3("Hello wordld$");
 
 print hello
 

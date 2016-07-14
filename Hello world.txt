@@ -5,3 +5,5 @@ Print3("Hello wordld");
 print hello
 
 print hello a dear frend
+
+print adsad
